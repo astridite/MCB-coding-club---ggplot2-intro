@@ -18,8 +18,8 @@ https://www.r-graph-gallery.com/ <br>
 `barplots.ipynb` - code accessible for use in azure <br>
 `intro_to_ggplot.ppx` - Powerpoint slides for demo <br>
 
-=======
-Some useful links:
+
+## Some useful links:
 ggplot2 free online webinar <br>
 Part 1: https://www.youtube.com/watch?v=h29g21z0a68&feature=youtu.be <br>
 Part 2: https://www.youtube.com/watch?v=0m4yywqNPVY <br>
